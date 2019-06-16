@@ -10,6 +10,12 @@ function App() {
       <p>Future site of some cool shit. Keep checking in to see progress.</p>
       <h2>Who am I?</h2>
       <p>I'm Jeff Storey, hit me up: jmstorey01@yahoo.com</p>
+      <h3>Some of my interests:</h3>
+      <ul>
+        <li>Coding: Mainly Javascript(Node, React)</li>
+        <li>Music: Heavy Metal, Progressive Rock</li>
+        <li>Guitar: Complete Hack</li>
+      </ul>
     </div>
   );
 }
